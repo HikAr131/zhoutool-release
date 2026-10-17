@@ -1,6 +1,6 @@
 # 粥小工具
 
-三角洲行动的免费小工具：局内地图、唐吉收集、自动钓鱼。
+三角洲行动的免费小工具：局内地图、唐吉收集、自动钓鱼、倒子弹推荐。
 
 下载最新版：[zhoutool.exe](https://github.com/HikAr131/zhoutool-release/releases/latest/download/zhoutool.exe)（这个地址永远指向最新版）。放到任意文件夹直接运行，不用安装；程序会自动检查更新。
 
